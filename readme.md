@@ -7,7 +7,7 @@ The main goal of this test is to do a google search, extract the results number 
 - Playwright requires Node.js version 12 or above. For more details head to: 
 [Playwright System Requirements](https://playwright.dev/docs/library#system-requirements)
 
-# How to install
+# How to Install
 
 - Open a terminal inside the project main folder and install the dependecies with your desire package manager, by default:
 
@@ -27,7 +27,7 @@ NOTE: If you have any error please head to [Playwright Installation Docs](https:
     npx playwright test
     ```
 
-The tests will automcally execute using the default config
+The tests will execute using the default config
 
 # Results
 
@@ -45,7 +45,7 @@ The tests will automcally execute using the default config
 
     [Playwright Config Docs](https://playwright.dev/docs/test-configuration)
 
-# Test properties
+# Test Properties
 
 - You're able to change the URL, success condition and failure condition of the tests, head to common/test-properties and simply change the values.
 
